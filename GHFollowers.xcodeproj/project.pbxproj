@@ -22,7 +22,7 @@
 		4614FA822A21463D00EAA81B /* Follower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA812A21463D00EAA81B /* Follower.swift */; };
 		4614FA842A21470100EAA81B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA832A21470100EAA81B /* User.swift */; };
 		4614FA892A214D0800EAA81B /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA882A214D0800EAA81B /* NetworkManager.swift */; };
-		4614FA8C2A240ED100EAA81B /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA8B2A240ED100EAA81B /* ErrorMessage.swift */; };
+		4614FA8C2A240ED100EAA81B /* GFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA8B2A240ED100EAA81B /* GFError.swift */; };
 		463D176D29C0203C001900BA /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463D176C29C0203C001900BA /* FollowerListVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -44,7 +44,7 @@
 		4614FA812A21463D00EAA81B /* Follower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Follower.swift; sourceTree = "<group>"; };
 		4614FA832A21470100EAA81B /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		4614FA882A214D0800EAA81B /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
-		4614FA8B2A240ED100EAA81B /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
+		4614FA8B2A240ED100EAA81B /* GFError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFError.swift; sourceTree = "<group>"; };
 		463D176C29C0203C001900BA /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -151,7 +151,7 @@
 		4614FA8A2A240EB400EAA81B /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				4614FA8B2A240ED100EAA81B /* ErrorMessage.swift */,
+				4614FA8B2A240ED100EAA81B /* GFError.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -233,7 +233,7 @@
 				4614FA7A2A1ADDD900EAA81B /* UIViewController+Ext.swift in Sources */,
 				4602F15128C987B600FD347D /* AppDelegate.swift in Sources */,
 				4614FA782A1AD6E600EAA81B /* GFAlertVC.swift in Sources */,
-				4614FA8C2A240ED100EAA81B /* ErrorMessage.swift in Sources */,
+				4614FA8C2A240ED100EAA81B /* GFError.swift in Sources */,
 				4614FA762A1AD61D00EAA81B /* GFBodyLabel.swift in Sources */,
 				4614FA822A21463D00EAA81B /* Follower.swift in Sources */,
 				4614FA742A1AD48800EAA81B /* GFTitleLabel.swift in Sources */,
