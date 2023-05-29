@@ -25,6 +25,7 @@
 		4614FA8C2A240ED100EAA81B /* GFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA8B2A240ED100EAA81B /* GFError.swift */; };
 		4614FA8F2A251D3400EAA81B /* FollowerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA8E2A251D3400EAA81B /* FollowerCell.swift */; };
 		4614FA912A251DB700EAA81B /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA902A251DB700EAA81B /* GFAvatarImageView.swift */; };
+		4614FA932A253E2D00EAA81B /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4614FA922A253E2D00EAA81B /* UIHelper.swift */; };
 		463D176D29C0203C001900BA /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463D176C29C0203C001900BA /* FollowerListVC.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		4614FA8B2A240ED100EAA81B /* GFError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFError.swift; sourceTree = "<group>"; };
 		4614FA8E2A251D3400EAA81B /* FollowerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerCell.swift; sourceTree = "<group>"; };
 		4614FA902A251DB700EAA81B /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
+		4614FA922A253E2D00EAA81B /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		463D176C29C0203C001900BA /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				4614FA8B2A240ED100EAA81B /* GFError.swift */,
+				4614FA922A253E2D00EAA81B /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				4602F16728CE708200FD347D /* FavoritesListVC.swift in Sources */,
 				4602F16928CFDBD800FD347D /* GFButton.swift in Sources */,
 				4614FA7A2A1ADDD900EAA81B /* UIViewController+Ext.swift in Sources */,
+				4614FA932A253E2D00EAA81B /* UIHelper.swift in Sources */,
 				4614FA912A251DB700EAA81B /* GFAvatarImageView.swift in Sources */,
 				4602F15128C987B600FD347D /* AppDelegate.swift in Sources */,
 				4614FA782A1AD6E600EAA81B /* GFAlertVC.swift in Sources */,
